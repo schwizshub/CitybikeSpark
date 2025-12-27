@@ -1,11 +1,6 @@
 # CitybikeSpark
 
-Anthropic Claude 4.5 Sonnet
 🚴 CityBikes Data Pipeline
-
-91010f56-c41c-43a6-bf28-efd9ca08322d 91010f56-c41c-43a6-bf28-efd9ca08322d 91010f56-c41c-43a6-bf28-efd9ca08322d
-
-91010f56-c41c-43a6-bf28-efd9ca08322d
 
 An automated ETL pipeline to download, store, and analyze global bike-sharing data from CityBikes API
 
